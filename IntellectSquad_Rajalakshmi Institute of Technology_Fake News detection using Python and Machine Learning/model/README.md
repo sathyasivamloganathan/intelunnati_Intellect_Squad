@@ -6,4 +6,3 @@ Classification Algorithms:
 
 Intel Extension for Scikit-Learn is used in Logistic Regression and Random Forest Classifiers.
 
-For converting text into vectors Term Frequency-Inverse Document Frequency (TF-IDF) is used.
